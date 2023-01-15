@@ -1,6 +1,6 @@
 # Audience-Engagement-with-Metrics
 
-Developing a quantitative measure of audience engagement using real transactional data from TV essentials product.
+Developing a quantitative measure of audience engagement using real transactional data from televesion essentials product.
 
 In order to find a true metric of engagement index and explore the relationship with circumstantial factors, I constructed a Linear Regression Model, and found the coefficient for the runtimes. In order to define an engagement index which doesn’t depend on runtimes, I deducted the runtime variable from the Avg % Viewed (response, dependent variable) after multiplying its coefficient. The result which generated a new column was named as Adjusted APV, the metric of engagement has been isolated from the length of program.
 
